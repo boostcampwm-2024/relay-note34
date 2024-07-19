@@ -54,3 +54,8 @@
 
 - 가장 고민했던 변수명과 이유 작성하기
 - 사다리타기로 1명
+
+
+## 결과
+<img width="653" alt="image" src="https://github.com/user-attachments/assets/5c01611e-e24e-4dc5-81dc-1710ecd65a8c">
+
