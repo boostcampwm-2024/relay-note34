@@ -59,3 +59,15 @@
 ## 결과
 <img width="653" alt="image" src="https://github.com/user-attachments/assets/5c01611e-e24e-4dc5-81dc-1710ecd65a8c">
 
+### 고동우
+
+### 김남희
+
+### 이종민
+
+### 정석영
+
+### 천일영
+
+### 한승헌
+
