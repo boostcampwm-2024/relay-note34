@@ -60,7 +60,12 @@
 <img width="653" alt="image" src="https://github.com/user-attachments/assets/5c01611e-e24e-4dc5-81dc-1710ecd65a8c">
 
 ### 고동우
+#### 퀘스트 : 내가 가장 고민했던 변수명 기록하기
 
+- Day6   
+  변수명 : getRowHavingMostHeroNum()   
+  이유 : 가장 많은 영웅들이 위치하는 행을 갖고오는 메소드를 나타내기 위해 변수명에 최대한 많은 정보들을 넣었다.
+  
 ### 김남희
 
 <img width="500" alt="mon" src="https://github.com/user-attachments/assets/f5436aa1-5abc-46f1-82d9-afbd88b3fb05">
