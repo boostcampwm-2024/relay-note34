@@ -64,7 +64,8 @@
 ### 김남희
 
 ### 이종민
-
+  - 퀘스트: **우리 멋진 소중한 릴레이 팀** 인생네컷 찍어 올리기
+  - ![relay_quest](https://github.com/user-attachments/assets/33e04610-0434-45d1-a2d9-54a21c8be440)
 ### 정석영
 
 ### 천일영
