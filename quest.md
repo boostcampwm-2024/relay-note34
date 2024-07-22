@@ -63,7 +63,7 @@
 
 ### 김남희
 
-![relay_quest_monday] (https://i.postimg.cc/VknLxNXF/Kakao-Talk-Photo-2024-07-22-23-59-55.jpg)
+<img width="500" alt="mon" src="https://github.com/user-attachments/assets/f5436aa1-5abc-46f1-82d9-afbd88b3fb05">
 
 ### 이종민
   - 퀘스트: **우리 멋진 소중한 릴레이 팀** 인생네컷 찍어 올리기
