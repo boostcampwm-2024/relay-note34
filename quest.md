@@ -82,6 +82,8 @@
 ### 천일영
 
 ### 한승헌
-
 - 퀘스트: 슬랙 랜덤 채널에 자신의 노동요 올리기
-  <img width="624" alt="스크린샷 2024-07-23 13 11 40" src="https://github.com/user-attachments/assets/a3c09845-ff6b-4fcb-a418-231d2eac6bb1">
+  
+<img width="624" alt="스크린샷 2024-07-23 13 11 40" src="https://github.com/user-attachments/assets/a3c09845-ff6b-4fcb-a418-231d2eac6bb1">
+<img width="420" alt="스크린샷 2024-07-26 00 45 54" src="https://github.com/user-attachments/assets/1eb99723-75d7-4f99-828d-0a67172b482c">
+
