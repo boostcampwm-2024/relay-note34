@@ -68,7 +68,17 @@
   
 ### 김남희
 
-<img width="500" alt="mon" src="https://github.com/user-attachments/assets/f5436aa1-5abc-46f1-82d9-afbd88b3fb05">
+월요일
+<img width="400" alt="mon" src="https://github.com/user-attachments/assets/f5436aa1-5abc-46f1-82d9-afbd88b3fb05">
+
+화요일
+<img width="400" alt="tue" src="https://github.com/user-attachments/assets/b8fbf1b0-6c0e-425e-8577-09c9d81ef994">
+
+수요일
+<img width="400" alt="wed" src="https://github.com/user-attachments/assets/fb0cb244-52ea-450a-ad3b-0d1971d81f09">
+
+목요일
+<img width="400" alt="thur" src="https://github.com/user-attachments/assets/cd817908-6c46-4a86-b7f9-80dd23fad0fb">
 
 ### 이종민
   - 퀘스트: **우리 멋진 소중한 릴레이 팀** 인생네컷 찍어 올리기
