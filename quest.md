@@ -104,3 +104,24 @@
 <img width="624" alt="스크린샷 2024-07-23 13 11 40" src="https://github.com/user-attachments/assets/a3c09845-ff6b-4fcb-a418-231d2eac6bb1">
 <img width="420" alt="스크린샷 2024-07-26 00 45 54" src="https://github.com/user-attachments/assets/1eb99723-75d7-4f99-828d-0a67172b482c">
 
+
+---
+
+
+지난주에 사다리타기를 통해 퀘스트 수행자를 지정한것을 바탕으로
+
+저희 (그룹?) 에서는 룰렛을 통하여 퀘스트 수행자를 지정했습니다.
+
+![Untitled (7)](https://github.com/user-attachments/assets/4e641dda-7228-4344-8f93-7bf671df03f3)
+
+| 수행자 | 미션번호 |
+| --- | --- |
+| 김태래 | 5 |
+| 김현진 | 6 |
+|  노진환 | 1 |
+| 심재성 | 2 |
+| 전희선 | 3 |
+| 제민우 | 4 |
+
+
+
