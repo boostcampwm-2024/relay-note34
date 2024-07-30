@@ -134,3 +134,7 @@
 | 목  |  |  |  |
 
 
+### 김현진
+- 퀘스트 :피어컴파일링 이외 추가적으로 학습저장소 3군데 더 둘러보기
+- 수행 기록 : https://titanium-legume-d68.notion.site/week02-6f4f115978234ab0b3a24a19ed1fa52a?pvs=4
+
