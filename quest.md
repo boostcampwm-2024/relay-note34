@@ -138,3 +138,15 @@
 - 퀘스트 :피어컴파일링 이외 추가적으로 학습저장소 3군데 더 둘러보기
 - 수행 기록 : https://titanium-legume-d68.notion.site/week02-6f4f115978234ab0b3a24a19ed1fa52a?pvs=4
 
+### 전희선
+- 퀘스트: 당근 먹기
+- 수행 기록: (참고로 나는 당근을 정말 싫어한다... 큰 노력이었다...)
+  ![KakaoTalk_Photo_2024-08-02-14-06-12 001](https://github.com/user-attachments/assets/3eb34b0d-4d58-4f32-873f-a22b66d55a22)
+  당근을 냉장고에서 꺼냈다. 먹던거다.
+  ![KakaoTalk_Photo_2024-08-02-14-06-13 002](https://github.com/user-attachments/assets/faa842bc-99ac-4f45-8ed1-42cd410e3316)
+  조금 썰었다.. 저걸 다 먹는건 불가능이다...
+  ![KakaoTalk_Photo_2024-08-02-14-06-13 003](https://github.com/user-attachments/assets/775fa66b-12c8-46ca-ba9e-6598c646fc61)
+  한입 베어 물었다! 근데 생각보다 괜찮았다..! 흠 이제 당근 편식 안할 수 있을지도?
+  
+  
+
