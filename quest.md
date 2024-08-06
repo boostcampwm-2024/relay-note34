@@ -188,7 +188,12 @@
 
 - 미션: ✔️  퀘스트(수정): 피어컴파일링 이외 추가적으로 학습저장소 3군데 더 둘러보기
 - 이유: 책상 사진 찍기가 걸렸는데, 가은님이 교환해주셨습니다 ❤️ 다른 분들 학습 저장소 구경 다니는 것 재밌을 것 같아요~
-- 결과:
+- 결과: 아래의 3곳에 댓글 작성 완료
+- https://gist.github.com/HahyunKang/4c5747a377d1a8ab867f114c0c23dd48
+- https://gist.github.com/miller198/585de1a53fe1a11f53ea4bda20e36b60
+- https://gist.github.com/giovannijunseokim/19e1b41aea64a58817bdfb9d76290c2f
+ ![image](https://github.com/user-attachments/assets/bffc18d6-7f17-4219-b7bb-d3eaf30a3d22)
+
 
 ### J270_한동효
 
